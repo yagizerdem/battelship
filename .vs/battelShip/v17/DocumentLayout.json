@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yagiz\\Desktop\\battelShip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02D2926D-E750-46AC-ABBA-970309AD7189}|Solution Items{02D2926D-E750-46AC-ABBA-970309AD7189}|C:\\Users\\yagiz\\Desktop\\battelShip\\TextFile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{02D2926D-E750-46AC-ABBA-970309AD7189}|Solution Items{02D2926D-E750-46AC-ABBA-970309AD7189}|solutionrelative:TextFile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC0F302-F608-46E3-83AE-7A681C336667}|battelShip\\battelShip.csproj|c:\\users\\yagiz\\desktop\\battelship\\battelship\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC0F302-F608-46E3-83AE-7A681C336667}|battelShip\\battelShip.csproj|solutionrelative:battelship\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC0F302-F608-46E3-83AE-7A681C336667}|battelShip\\battelShip.csproj|c:\\users\\yagiz\\desktop\\battelship\\battelship\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC0F302-F608-46E3-83AE-7A681C336667}|battelShip\\battelShip.csproj|solutionrelative:battelship\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC0F302-F608-46E3-83AE-7A681C336667}|battelShip\\battelShip.csproj|c:\\users\\yagiz\\desktop\\battelship\\battelship\\play.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC0F302-F608-46E3-83AE-7A681C336667}|battelShip\\battelShip.csproj|solutionrelative:battelship\\play.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC0F302-F608-46E3-83AE-7A681C336667}|battelShip\\battelShip.csproj|c:\\users\\yagiz\\desktop\\battelship\\battelship\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC0F302-F608-46E3-83AE-7A681C336667}|battelShip\\battelShip.csproj|solutionrelative:battelship\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC0F302-F608-46E3-83AE-7A681C336667}|battelShip\\battelShip.csproj|c:\\users\\yagiz\\desktop\\battelship\\battelship\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC0F302-F608-46E3-83AE-7A681C336667}|battelShip\\battelShip.csproj|solutionrelative:battelship\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC0F302-F608-46E3-83AE-7A681C336667}|battelShip\\battelShip.csproj|c:\\users\\yagiz\\desktop\\battelship\\battelship\\game.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC0F302-F608-46E3-83AE-7A681C336667}|battelShip\\battelShip.csproj|solutionrelative:battelship\\game.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC0F302-F608-46E3-83AE-7A681C336667}|battelShip\\battelShip.csproj|c:\\users\\yagiz\\desktop\\battelship\\battelship\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FC0F302-F608-46E3-83AE-7A681C336667}|battelShip\\battelShip.csproj|solutionrelative:battelship\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC0F302-F608-46E3-83AE-7A681C336667}|battelShip\\battelShip.csproj|c:\\users\\yagiz\\desktop\\battelship\\battelship\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC0F302-F608-46E3-83AE-7A681C336667}|battelShip\\battelShip.csproj|solutionrelative:battelship\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextFile1.txt",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\battelShip\\TextFile1.txt",
+              "RelativeDocumentMoniker": "TextFile1.txt",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\battelShip\\TextFile1.txt",
+              "RelativeToolTip": "TextFile1.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-11T19:10:47.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameBoard.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\battelShip\\battelShip\\GameBoard.cs",
+              "RelativeDocumentMoniker": "battelShip\\GameBoard.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\battelShip\\battelShip\\GameBoard.cs",
+              "RelativeToolTip": "battelShip\\GameBoard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:59:23.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\battelShip\\battelShip\\Room.cs",
+              "RelativeDocumentMoniker": "battelShip\\Room.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\battelShip\\battelShip\\Room.cs",
+              "RelativeToolTip": "battelShip\\Room.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:55:31.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Game.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\battelShip\\battelShip\\Game.Designer.cs",
+              "RelativeDocumentMoniker": "battelShip\\Game.Designer.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\battelShip\\battelShip\\Game.Designer.cs",
+              "RelativeToolTip": "battelShip\\Game.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:43:56.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Game.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\battelShip\\battelShip\\Game.cs",
+              "RelativeDocumentMoniker": "battelShip\\Game.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\battelShip\\battelShip\\Game.cs [Design]",
+              "RelativeToolTip": "battelShip\\Game.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:42:56.155Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Play.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\battelShip\\battelShip\\Play.cs",
+              "RelativeDocumentMoniker": "battelShip\\Play.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\battelShip\\battelShip\\Play.cs",
+              "RelativeToolTip": "battelShip\\Play.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:07:34.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\battelShip\\battelShip\\Database.cs",
+              "RelativeDocumentMoniker": "battelShip\\Database.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\battelShip\\battelShip\\Database.cs",
+              "RelativeToolTip": "battelShip\\Database.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwBIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:04:56.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\battelShip\\battelShip\\Program.cs",
+              "RelativeDocumentMoniker": "battelShip\\Program.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\battelShip\\battelShip\\Program.cs",
+              "RelativeToolTip": "battelShip\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:04:43.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz\\Desktop\\battelShip\\battelShip\\Home.cs",
+              "RelativeDocumentMoniker": "battelShip\\Home.cs",
+              "ToolTip": "C:\\Users\\yagiz\\Desktop\\battelShip\\battelShip\\Home.cs",
+              "RelativeToolTip": "battelShip\\Home.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwCsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:03:25.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
